@@ -11,7 +11,7 @@
 [![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://www.youtube.com/shorts/Gx5cvLwNvus)
 
   
-- [Task 2 - Calculator App](https://github.com/Prashant-ranjan-singh-123/OasisInfobyte_Java_Project/tree/main/Task%203)
+- [Task 2 - Calculator App](https://github.com/Prashant-ranjan-singh-123/CodSoft/tree/main/Task%202%20(Calculator))
 
 ## 📹 Video Of Calculator App
 [![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://www.youtube.com/watch?v=N0piobwkuJ8)
