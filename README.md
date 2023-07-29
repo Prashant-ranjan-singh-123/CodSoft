@@ -5,7 +5,7 @@
 ### I have complete 2 tasks in Java development domain:
 
 
-- [Task 1 - Flashlight App](https://github.com/Prashant-ranjan-singh-123/OasisInfobyte_Java_Project/tree/main/Task%202)
+- [Task 1 - Flashlight App](https://github.com/Prashant-ranjan-singh-123/CodSoft/tree/main/Task%201%20(Flash%20Light%20App))
 
 ## 📹 Video Of Flashlight App
 [![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://www.youtube.com/shorts/Gx5cvLwNvus)
